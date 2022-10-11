@@ -116,10 +116,13 @@ class TicketView extends StatelessWidget {
                 //middle portion completed
               ],
             ),
-          )
+          ),
+          /*
+          blue part of the card completed
+          
+          */
         ]),
       ),
-   
     );
   }
 }
